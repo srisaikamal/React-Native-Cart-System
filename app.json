@@ -1,0 +1,12 @@
+{
+  "name": "cart-app",
+  "displayName": "cart-app",
+  "expo": {
+    "name": "cart-app",
+    "slug": "cart-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
